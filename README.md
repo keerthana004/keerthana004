@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Thanu
 
-<!--
-**keerthana004/keerthana004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an IT student interested in programming
+and web development.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- CSS
+- Java
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Student Management System
+- Portfolio Website
+- Python Projects
+
+## Contact
+Email: yourmail@gmail.com
