@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thanu
+# Hi 👋, I'm keerthana
 
 ## About Me
 I am an IT student interested in programming
